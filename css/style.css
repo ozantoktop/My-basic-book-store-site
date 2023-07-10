@@ -1,0 +1,12 @@
+.list{
+    padding-left: 580px;
+}
+.container{
+    text-align: center;
+}
+.items{
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
